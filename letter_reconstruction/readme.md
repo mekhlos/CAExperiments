@@ -1,0 +1,1 @@
+train a CNN to reconstruct a letter and use it as the update rule of a CA
